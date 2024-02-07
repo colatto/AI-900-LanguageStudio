@@ -22,8 +22,11 @@ O processo usará recurso de Inteligencia Artificial do Azure, que inclui os ser
 
 - Microsoft Azure - [*Soluções*](https://azure.microsoft.com/pt-br/#solutions)
 
+- Language Studio - [*Microsoft Learn*](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/language-studio)
+
 - Analyze text with Language Studio - [*Microsoft Learn*](https://microsoftlearning.github.io/mslearn-ai-fundamentals/Instructions/Labs/06-text-analysis.html)
 
+- O que é análise de sentimento e mineração de opiniões? - [*Microsoft Learn*](https://learn.microsoft.com/pt-br/azure/ai-services/language-service/sentiment-opinion-mining/overview?tabs=prebuilt)
 
 <br> <br>
 
